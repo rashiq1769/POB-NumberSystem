@@ -1,1 +1,1 @@
-# POB-NumberSystem
+POB Number system divides the pixel value into secret shares and retrieves whenever needed. First Pixel is converted into a binary representation which eventually is divided into shares. An 8-bit binary pixel value is converted into a 9-bit value by inserting a bit in random in order to represent the number less than 9cr which is explained clearly in the preliminaries. If we insert the bit in random then reconstruction of the image becomes difficult as we need to remove that particular bit
